@@ -10,6 +10,7 @@ A modern and responsive Role-Based Access Control (RBAC) system built with React
 - Advanced filtering and sorting capabilities
 - Real-time search functionality
 - Form validation using Zod
+  # Below is the screenshot of the user management portion of the site
   ![User](https://github.com/user-attachments/assets/a8cbfa7b-53e5-4b2f-8009-3d21ca2acac4)
 
 ### Role Management
@@ -17,6 +18,7 @@ A modern and responsive Role-Based Access Control (RBAC) system built with React
 - Define and modify role permissions
 - Visual permission management interface
 - Dynamic role assignment
+  # Below is the screenshot of the role management portion of the site
 
 ### Dashboard
 - Overview of system statistics
