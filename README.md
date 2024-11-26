@@ -19,12 +19,15 @@ A modern and responsive Role-Based Access Control (RBAC) system built with React
 - Visual permission management interface
 - Dynamic role assignment
   # Below is the screenshot of the role management portion of the site
+  ![Roles](https://github.com/user-attachments/assets/2d57d44f-38d5-4d6e-bbb1-fbd412ca69b4)
 
 ### Dashboard
 - Overview of system statistics
 - Users per role distribution
 - Interactive charts and metrics
 - Quick access to key functionalities
+  # Below is the screenshot of the dashboard
+  
 
 ### Security & UX Features
 - Input validation and sanitization
