@@ -27,6 +27,8 @@ A modern and responsive Role-Based Access Control (RBAC) system built with React
 - Interactive charts and metrics
 - Quick access to key functionalities
   # Below is the screenshot of the dashboard
+  ![Dashboard](https://github.com/user-attachments/assets/5647bb8d-3572-47bb-a020-6836f822e55a)
+
   
 
 ### Security & UX Features
